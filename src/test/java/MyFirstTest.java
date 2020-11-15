@@ -4,7 +4,7 @@ public class MyFirstTest {
     @Test
     public void FirsTest() {
         System.out.println("Hello, Corona!");
-        int sumReturn = sumTwoDigits(15, 45);
+        int sumReturn = sumTwoDigits(16, 45);
         System.out.println("And the sum is: " + sumReturn);
         System.out.println(sumTwoDigits(9, 13));
     }
